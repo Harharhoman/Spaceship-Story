@@ -1,0 +1,32 @@
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Content\Space[1].gif
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Spaceship Story.exe
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Spaceship Story.pdb
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\obj\x86\Debug\Spaceship Story.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\obj\x86\Debug\Spaceship Story.exe
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\obj\x86\Debug\Spaceship Story.pdb
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Content\Untitled.png
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Content\HUDImage.png
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Content\NoButtonPressedMenu.jpg
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Content\05 Come and Find Me.xnb
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Content\05 Come and Find Me.wma
+C:\Users\John\Desktop\Spaceship Story\Spaceship Story\bin\Windows\Debug\Content\MenuButtonUnpressed.png
